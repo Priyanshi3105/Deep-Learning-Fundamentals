@@ -16,6 +16,7 @@ This repository contains my learning and implementation of core Deep Learning co
 ## Datasets Used
 
 - MNIST Handwritten Digits Dataset
+- Iris Dataset
 
 ## Technologies
 
